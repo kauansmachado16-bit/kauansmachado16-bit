@@ -1,4 +1,4 @@
-#🧑🏽‍💻 # 👨‍💻 Kauan de Sousa Machado
+#🧑🏽‍💻 Kauan de Sousa Machado
 
 **`Front-end Developer em Formação | Estudante de TI`**
 
